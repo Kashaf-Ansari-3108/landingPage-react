@@ -8,8 +8,8 @@ const Footer1 = () => {
     <h5><span>SUBSCRIBE</span><br/>GET NEWS LETTERS</h5>
     </div>
     <div className='two'>
-    <input type="email" class="form-control" id="exampleFormControlInput1"/>
-    <button type="button" class="btn text-light">Subscribe</button>
+    <input type="email" className="form-control" id="exampleFormControlInput1"/>
+    <button type="button" className="btn text-light">Subscribe</button>
     </div>
   
     
